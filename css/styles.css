@@ -46,6 +46,9 @@ h1{
 }
 
 /* start of top container */
+.top-container{
+    margin-top: 4.5rem;
+}
 .top-container-row-1{
     margin-bottom: 15rem;
     padding: 0 6.25rem;
