@@ -2,7 +2,7 @@
 body{
     max-width: 1440px;
     min-width: 375px;
-    margin: auto;
+    margin: 3.4rem auto;
     padding:0;
    
     
@@ -147,7 +147,7 @@ h1{
   .middle-container{
       color: hsl(240, 75%, 98%);
       background: hsl(238, 22%, 44%);
-      padding: 3.1rem 6.25rem;
+      padding: 5rem 6.25rem;
   }
   .middle-container input{
     height: 2rem;
